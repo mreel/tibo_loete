@@ -32,7 +32,7 @@ Pro: \\(149.6mm \times 71.5mm \times 8.25mm\\)
 For our calculations:  
 \\(148.6mm \times 71.5mm \times 8mm = 0.1486m \times 0.0715m \times 0.008m\\)[^2]
 
-For a force P at the midpoint of the base iPhone, the peak moment is:  
+For a force \\(P\\) at the midpoint of the base iPhone, the peak moment is:  
 \\[M_{\text{max}} = \frac{P\times0.1486m}{4} = 0.03715m \times P\\]  
 Bending stress is calculated using \\(σ_{\text{max}} = \frac{M}{S}\\). With \\(M\\) the moment and \\(S\\) the section modulus. This value is dependent on the shape of the cross section of the beam. In this case a rectangle and equals \\(S = \frac{b \times h^2}{6}\\). For our average iPhone that means:  
 \\[S = \frac{b \times h^2}{6} = \frac{0.0715m \times 0.008^2m^2}{6} \approx 0.000000763m^3\\]  
@@ -74,7 +74,7 @@ And the maximum bending stress:
 \\[11.1/5.31= 2.09 \quad | \quad 11.1/4.89= 2.27\\]  
 
 ## Conclusion  
-As rumored, the iPhone air would experience about twice the peak bending stress as the big phones, and ~x2.25 the bending stress of the base phones for an equal force applied at the center of the phone.  
+As rumored, if the iPhone air has a similar internal frame, it would experience about twice the peak bending stress as the big phones, and ~x2.25 the bending stress of the base phones for an equal force applied at the center of the phone —and thus bend at half the force applied.  
 
 ### What does this mean?
 As Dr. Drang noted, the phone size alone doesn't make a huge difference. However, since the thinness of the phone does make a huge difference, that extra 10% could be the difference between "bendgate is a not really a concern" and "bendgate is a big concern".  
