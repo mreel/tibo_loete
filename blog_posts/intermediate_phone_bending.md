@@ -8,7 +8,9 @@ tags:
   - follow_up
 author: Tibo Loete
 ---
-
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # Intermediate Phone Bending
 
 After reading [Dr. Drang's post](https://leancrew.com/all-this/2025/03/simple-phone-bending/) about the 10% additional bending stress for the rumored iPhone Air, I felt the analysis could go further. Rather than complain, why not do it myself? Unlike Dr. Drang, I'm not a structural engineer, but I did learn this stuff in uni a few years ago. Still my knowledge is limited and a little rusty as I've never used it in real life, so I invite any criticism and corrections.  
