@@ -15,7 +15,7 @@ After reading [Dr. Drang's post](https://leancrew.com/all-this/2025/03/simple-ph
 
 Continuing from Dr. Drang's post, the peak moment is at the center of the beam and is  
 
-$$M_{\text{max}} = \frac{P L}{4}$$  
+\\[M_{\text{max}} = \frac{P L}{4}\\]  
 
 The relevant variable to consider whether or not bendgate will return is the maximum bending stress $σ_{\text{max}}$ . Let's start with the current crop of iPhones, and then speculate about the rumoured Air.
 
