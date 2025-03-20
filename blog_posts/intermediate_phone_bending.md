@@ -22,7 +22,7 @@ Continuing from Dr. Drang's post, the peak moment is at the center of the 'beam'
 The relevant variable to consider whether or not bendgate will return is the maximum bending stress \\(σ_{\text{max}}\\) . Let's start with the current crop of iPhones, and then speculate about the rumoured Air.
 
 ## Current iPhones
-Maximum bending stress is independent of material[^1], and the dimensions of the pro/non-pro phones are close enought to combine the calculations.
+Maximum bending stress is independent of material[^1], and the dimensions of the pro/non-pro phones are close enough to combine the calculations.
 
 ### Base & Pro
 Dimensions (\\(h \times w \times d\\)):  
